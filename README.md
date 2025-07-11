@@ -1,6 +1,6 @@
 ### 📁 `notion-trade-sync`
 
-```markdown
+markdown
 # Robinhood-to-Notion Sync 🧾🧠
 
 An automation script that syncs your trades to Notion — with AI insights about your habits.
